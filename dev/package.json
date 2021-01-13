@@ -29,7 +29,7 @@
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^4.0.0",
     "fslightbox-react": "^1.3.3",
-    "hellojs": "^1.18.1",
+    "hellojs": "^1.18.6",
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
     "materialize-css": "^1.0.0",
